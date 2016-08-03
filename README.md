@@ -8,3 +8,5 @@ ConsoleApplication3 - Asks for the number of subdivision of Tetrahedrons, and di
 ConsoleApplication4 - Was trying to create curves based on level of subdivision.
 
 Direct executables of 64-bit Windows can be run from the "Run Application" folders
+
+![Alt text](ParallelSierpinskiTetrahedrons/ConsoleApplication3 Screenshot.jpg?raw=true "Console3-Screenshot")
